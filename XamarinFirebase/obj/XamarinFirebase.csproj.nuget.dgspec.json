@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Only Dima\\FirebaseXamarin\\XamarinFirebase\\XamarinFirebase\\XamarinFirebase.csproj": {}
+  },
+  "projects": {
+    "D:\\Only Dima\\FirebaseXamarin\\XamarinFirebase\\XamarinFirebase\\XamarinFirebase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Only Dima\\FirebaseXamarin\\XamarinFirebase\\XamarinFirebase\\XamarinFirebase.csproj",
+        "projectName": "XamarinFirebase",
+        "projectPath": "D:\\Only Dima\\FirebaseXamarin\\XamarinFirebase\\XamarinFirebase\\XamarinFirebase.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Only Dima\\FirebaseXamarin\\XamarinFirebase\\XamarinFirebase\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid81"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid81": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid81": {
+          "dependencies": {
+            "MaterialSpinner-Xamarin": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v4": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Android.Support.v7.RecyclerView": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Firebase.Database": {
+              "target": "Package",
+              "version": "[60.1142.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
